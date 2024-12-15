@@ -1,0 +1,8 @@
+{
+  "name": "M27Q Brightness",
+  "description": "Set the brightness of the Gigabyte M27Q Monitor connected with USB-C",
+  "uuid": "m27q-brightness@local",
+  "shell-version": [
+    "47"
+  ]
+}
